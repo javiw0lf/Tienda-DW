@@ -75,6 +75,10 @@ body {
     box-shadow: 3px 3px 6px #676767;
 }
 
+.imagenA img{
+    height: 100%;
+}
+
 .quienes{
     color: silver;
     font-size: 1.3em;
